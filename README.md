@@ -10,7 +10,7 @@
 
     >npm run test
     
-4 - To run the project on you local machine:
+4 - To run the project on your local machine:
 
     >npm run serve
     
